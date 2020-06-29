@@ -1,3 +1,2 @@
-# Portfolio-Optimisation-With-Deep-Learning
+# Portfolio-Optimisation-With-Deep-Learning (Still Work In Progress)
 Use DeepDow to optimise portfolio using Pytorch
-Still work in progress
